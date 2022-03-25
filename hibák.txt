@@ -1,0 +1,56 @@
+74;  Nem rendelkezik érvényes headerrel!
+82;  Nem rendelkezik érvényes headerrel!
+110;  Nem rendelkezik érvényes headerrel!
+111;  Nem rendelkezik érvényes headerrel!
+112;  Nem rendelkezik érvényes headerrel!
+113;  Nem rendelkezik érvényes headerrel!
+115;  Nem rendelkezik érvényes headerrel!
+116;  Nem rendelkezik érvényes headerrel!
+117;  Nem rendelkezik érvényes headerrel!
+120;  Nem rendelkezik érvényes headerrel!
+122;  Nem rendelkezik érvényes headerrel!
+124;  Nem rendelkezik érvényes headerrel!
+134;  Nem rendelkezik érvényes headerrel!
+136;  Nem rendelkezik érvényes headerrel!
+137;  Nem rendelkezik érvényes headerrel!
+138;  Nem rendelkezik érvényes headerrel!
+140;  Nem rendelkezik érvényes headerrel!
+142;  Nem rendelkezik érvényes headerrel!
+149;  Nem rendelkezik érvényes headerrel!
+151;  Nem rendelkezik érvényes headerrel!
+158;  Key Not Found Exception
+159;  Key Not Found Exception
+164;  Argument Out Of Range Exception
+220;  Argument Out Of Range Exception
+372;  Argument Out Of Range Exception
+437;  Nem rendelkezik érvényes headerrel!
+477;  Nem rendelkezik érvényes headerrel!
+478;  Nem rendelkezik érvényes headerrel!
+696;  Argument Out Of Range Exception
+697;  Argument Out Of Range Exception
+826;  Argument Out Of Range Exception
+859;  Argument Out Of Range Exception
+881;  Key Not Found Exception
+895;  Argument Out Of Range Exception
+908;  Argument Out Of Range Exception
+913;  Argument Out Of Range Exception
+922;  Argument Out Of Range Exception
+937;  Argument Out Of Range Exception
+1485;  Key Not Found Exception
+1654;  Key Not Found Exception
+1668;  Key Not Found Exception
+1811;  Key Not Found Exception
+1882;  Argument Out Of Range Exception
+1883;  Key Not Found Exception
+1952;  Argument Out Of Range Exception
+2028;  Argument Out Of Range Exception
+2115;  Argument Out Of Range Exception
+2119;  Argument Out Of Range Exception
+2365;  Nem rendelkezik érvényes headerrel!
+2455;  Argument Out Of Range Exception
+3414;  Nem rendelkezik érvényes headerrel!
+3418;  Argument Out Of Range Exception
+3909;  Argument Out Of Range Exception
+4024;  Argument Out Of Range Exception
+4081;  Key Not Found Exception
+4249;  Key Not Found Exception

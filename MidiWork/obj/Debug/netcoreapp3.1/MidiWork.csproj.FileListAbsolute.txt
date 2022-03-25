@@ -1,0 +1,108 @@
+C:\Users\Martin\source\repos\MidiWork\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.exe
+C:\Users\Martin\source\repos\MidiWork\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.deps.json
+C:\Users\Martin\source\repos\MidiWork\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.json
+C:\Users\Martin\source\repos\MidiWork\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\MidiWork\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\source\repos\MidiWork\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\source\repos\MidiWork\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\MidiWork\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\MidiWork\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\MidiWork\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfo.cs
+C:\Users\Martin\source\repos\MidiWork\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\MidiWork\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\source\repos\MidiWork\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\source\repos\MidiWork\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.genruntimeconfig.cache
+C:\Users\Martin\Desktop\MidiWork 2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\MidiWork 2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\MidiWork 2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfo.cs
+C:\Users\Martin\Desktop\MidiWork 2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\MidiWork 2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\Desktop\MidiWork 2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\Desktop\MidiWork 2\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.exe
+C:\Users\Martin\Desktop\MidiWork 2\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.deps.json
+C:\Users\Martin\Desktop\MidiWork 2\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.json
+C:\Users\Martin\Desktop\MidiWork 2\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\MidiWork 2\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\Desktop\MidiWork 2\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\Desktop\MidiWork 2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.genruntimeconfig.cache
+C:\Users\Martin\Desktop\MidiWork 3\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\MidiWork 3\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\MidiWork 3\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\MidiWork 3\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfo.cs
+C:\Users\Martin\Desktop\MidiWork 3\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\MidiWork 3\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\Desktop\MidiWork 3\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\Desktop\MidiWork 3\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.exe
+C:\Users\Martin\Desktop\MidiWork 3\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.deps.json
+C:\Users\Martin\Desktop\MidiWork 3\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.json
+C:\Users\Martin\Desktop\MidiWork 3\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\MidiWork 3\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\Desktop\MidiWork 3\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\Desktop\MidiWork 3\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.genruntimeconfig.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0 másolata\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.exe
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0 másolata\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.deps.json
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0 másolata\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.json
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0 másolata\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0 másolata\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0 másolata\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0 másolata\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0 másolata\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0 másolata\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0 másolata\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfo.cs
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0 másolata\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0 másolata\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0 másolata\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0 másolata\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.genruntimeconfig.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.1\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.exe
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.1\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.deps.json
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.1\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.json
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.1\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.1\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.1\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.1\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.1\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.1\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfo.cs
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.1\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.1\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.1\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.1\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.genruntimeconfig.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.exe
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.deps.json
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.json
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfo.cs
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.genruntimeconfig.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2.1\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.exe
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2.1\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.deps.json
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2.1\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.json
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2.1\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2.1\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2.1\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2.1\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2.1\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2.1\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfo.cs
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2.1\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2.1\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2.1\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\Desktop\MidiWork Alpha 1.0.2.1\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.genruntimeconfig.cache
+C:\Users\Martin\Desktop\MidiWork 1.0\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\MidiWork 1.0\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\MidiWork 1.0\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.AssemblyInfo.cs
+C:\Users\Martin\Desktop\MidiWork 1.0\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\MidiWork 1.0\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\Desktop\MidiWork 1.0\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\Desktop\MidiWork 1.0\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.exe
+C:\Users\Martin\Desktop\MidiWork 1.0\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.deps.json
+C:\Users\Martin\Desktop\MidiWork 1.0\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.json
+C:\Users\Martin\Desktop\MidiWork 1.0\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.runtimeconfig.dev.json
+C:\Users\Martin\Desktop\MidiWork 1.0\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.dll
+C:\Users\Martin\Desktop\MidiWork 1.0\MidiWork\bin\Debug\netcoreapp3.1\MidiWork.pdb
+C:\Users\Martin\Desktop\MidiWork 1.0\MidiWork\obj\Debug\netcoreapp3.1\MidiWork.genruntimeconfig.cache
